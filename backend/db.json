@@ -1,0 +1,17 @@
+{
+    "products":[{
+        "id": 1,
+        "name": "Caneta",
+        "price": 5.89
+    },
+    {
+        "id": 2,
+        "name": "Garrafa",
+        "price": 15.99
+    },
+    {
+        "id": 3,
+        "name": "Borracha",
+        "price": 1.89
+    }]
+}

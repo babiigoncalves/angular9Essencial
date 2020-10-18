@@ -4,7 +4,8 @@ Basic frontend aplication in Angular 9.
 
 #### Features
 ----
-*
+* Products CRUD;
+
 
 #### Specifications
 [Course](https://www.cod3r.com.br/courses/take/angular-9-essencial/)
@@ -30,11 +31,10 @@ $[localhost angular9Essencial] npm install
 3.Init basic project frontend:
 ```
 $[localhost angular9Essencial/frontend] npm start
-
-4.Init basic backend:
+```
+4.Init basic JSON Server:
 ```
 $[localhost angular9Essencial/backend] npm start
-```
 ```
 
 #### Author

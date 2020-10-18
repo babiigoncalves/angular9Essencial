@@ -8,7 +8,7 @@ Basic frontend aplication in Angular 9.
 
 
 #### Specifications
-[Course](https://www.cod3r.com.br/courses/take/angular-9-essencial/)
+[Cod3r Course](https://www.cod3r.com.br/courses/take/angular-9-essencial/)
 
 #### Requirements
 ----

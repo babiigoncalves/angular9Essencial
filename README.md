@@ -14,9 +14,9 @@ Basic frontend aplication in Angular 9.
 ----
 |     Tool            |  Version     |
 | -----------         | --------     |
-|     Angular         |    9         |
-|     NPM             | 6.14         |
-| Visual Studio Code  | Luna or Later|
+|     Angular         |      9       |
+|     NPM             |   6.14       |
+| Visual Studio Code  |   lastet     |
  
 #### Build Guide
 ----
@@ -36,6 +36,9 @@ $[localhost angular9Essencial/frontend] npm start
 ```
 $[localhost angular9Essencial/backend] npm start
 ```
+
+#### Application access 
+* http://localhost:4200/
 
 #### Author
 [Barbara Goncalves - 2020](https://github.com/babiigoncalves)
